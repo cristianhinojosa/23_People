@@ -1,4 +1,4 @@
-Hello my name is cristian Hinojosa Vallejos, here are instructions below
+Hello my name is cristian Hinojosa Vallejos, here are instructions below:
 # Create a User 
 1)  Go to https://people23-287403.df.r.appspot.com/register/
 2)  Complete the form and press the post button
@@ -11,17 +11,17 @@ Hello my name is cristian Hinojosa Vallejos, here are instructions below
 7) Enjoin testing my app
 
 #  The urls:
-#  Create a User:
+#  Create a User (POST):
 #  https://people23-287403.df.r.appspot.com/register/
-#  GET a Token: 
+#  Token (GET): 
 #  https://people23-287403.df.r.appspot.com/token/
 #  Api (GET, POST, PUT. DELETE):
 #  https://people23-287403.df.r.appspot.com/drug/
 #  https://people23-287403.df.r.appspot.com/drugs/
 #  https://people23-287403.df.r.appspot.com/vaccination/
-#  POST Verify Token:
+#  Verify Token (POST):
 #  https://people23-287403.df.r.appspot.com/token/
-#  POST Refresh
+#  Refresh (POST)
 #  https://people23-287403.df.r.appspot.com/token/
 #  Swagger:
 #  https://people23-287403.df.r.appspot.com/documentation/
