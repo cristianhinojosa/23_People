@@ -15,9 +15,13 @@ Hello my name is cristian Hinojosa Vallejos, here are instructions below
 #  https://people23-287403.df.r.appspot.com/register/
 #  GET a Token: 
 #  https://people23-287403.df.r.appspot.com/token/
-#  Swagger:
-#  https://people23-287403.df.r.appspot.com/documentation/
-#  Api:
+#  Api (GET, POST, PUT. DELETE):
 #  https://people23-287403.df.r.appspot.com/drug/
 #  https://people23-287403.df.r.appspot.com/drugs/
 #  https://people23-287403.df.r.appspot.com/vaccination/
+#  POST Verify Token:
+#  https://people23-287403.df.r.appspot.com/token/
+#  POST Refresh
+#  https://people23-287403.df.r.appspot.com/token/
+#  Swagger:
+#  https://people23-287403.df.r.appspot.com/documentation/
